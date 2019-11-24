@@ -1,0 +1,11 @@
+<map id="imviewerControlPanel" name="imviewerControlPanel">
+<area shape="rect" id="node3" href="$classimviewerForm.html" title="imviewerForm" alt="" coords="1259,135,1363,161"/>
+<area shape="rect" id="node4" href="$classimviewer.html" title="imviewer" alt="" coords="1049,24,1124,51"/>
+<area shape="rect" id="node6" href="$structrtimvImage.html" title="rtimvImage" alt="" coords="502,21,589,48"/>
+<area shape="rect" id="node10" href="$classStretchCircle.html" title="StretchCircle" alt="" coords="496,215,595,241"/>
+<area shape="rect" id="node12" href="$classStretchBox.html" title="StretchBox" alt="" coords="766,117,853,144"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="216,21,296,48"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="5,14,132,55"/>
+<area shape="rect" id="node14" href="$classimviewerStats.html" title="Class to manage calculating statistics in the designated image region. " alt="" coords="1034,297,1139,324"/>
+<area shape="rect" id="node16" href="$classStatsThread.html" title="Thread class to start the stats thread. " alt="" coords="1264,343,1357,369"/>
+</map>
